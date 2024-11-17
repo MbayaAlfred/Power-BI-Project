@@ -10,6 +10,11 @@ Power BI Modelling, DAX, KPI, Drill through , Drill down, Page navigation , data
 #### Drill through Page
 ![](drill_through.png)
 ##### Conclusion 
-March is a critical month for employee exits, with turnover peaking compared to other months. 2011 experienced a significant turnover event, especially for female employees, but this was followed by a sharp decline in subsequent years.
-Sales and IT/IS departments are most affected by turnover, which may suggest the need for targeted retention strategies in these areas. Employees in the 30-35 age range and those with 2-3 years of tenure are most likely to leave, which could signal that employees are reconsidering their long-term fit within the organization during this phase. Retention efforts should focus on mid-tenure employees (2-3 years) and the Sales department, as they represent the highest turnover segments.
-### Interact with the report https://app.powerbi.com/reportEmbed?reportId=71b5314d-5aec-46fa-b804-700b160bdac4&autoAuth=true&ctid=78d1fb89-a6cc-4862-a67c-a7287504e26f.
+* March is a critical month for employee exits, with turnover peaking compared to other months. 2011 experienced a significant turnover event, especially for female employees, but this was followed by a sharp 
+  decline in subsequent years.
+* Sales and IT/IS departments are most affected by turnover, which may suggest the need for targeted retention strategies in these areas.
+* Employees in the 30-35 age range and those with 2-3 years of tenure are most likely to leave,
+  which could signal that employees are reconsidering their long-term fit within the organization during this phase.
+* Retention efforts should focus on mid-tenure employees (2-3 years) and the Sales department, as they represent the highest turnover segments.
+### Interact with the report using this link :
+ https://app.powerbi.com/reportEmbed?reportId=71b5314d-5aec-46fa-b804-700b160bdac4&autoAuth=true&ctid=78d1fb89-a6cc-4862-a67c-a7287504e26f.
